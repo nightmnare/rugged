@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Agrandir';
+  font-style: normal;
+  font-weight: 400;
+  font-display: optional;
+  src: url('/fonts/Agrandir-Regular.otf');
+}
+
+@font-face {
+  font-family: 'Agrandir';
+  font-style: normal;
+  font-weight: 300;
+  font-display: optional;
+  src: url('/fonts/Agrandir-Narrow.otf');
+}
+
+@font-face {
+  font-family: 'Agrandir';
+  font-weight: 700;
+  src: url('/fonts/Agrandir-Bold.otf');
+}
+
+@font-face {
+  font-family: 'Modius';
+  font-weight: 700;
+  src: url('/fonts/Modius-Bold.woff');
+}
